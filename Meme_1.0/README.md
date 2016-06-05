@@ -4,7 +4,7 @@ MemeMe 1.0 is a meme-generating app that enables a user to attach a caption to a
 * Has a top and bottom text field over an image to create the Meme. 
 * Readjusts the keyboard not to obscure the image 
 * Readjusts the Image Content Mode to prevent distortion of image and image stretch. 
-* Share button allows sharing the built meme in messages/set as contact picture/save it on phone etc
+* Share button allows sharing the built meme via Activity View Controller
 * Utilizes:
 <ul>
 <li> Actions and Outlets </li>
